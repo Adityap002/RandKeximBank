@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42531" started-at="2018-02-18T19:17:05Z" finished-at="2018-02-18T19:17:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42531" started-at="2018-02-18T19:17:05Z" finished-at="2018-02-18T19:17:47Z">
+      <class name="com.KeximBank.master.ExePom">
+        <test-method status="PASS" signature="pomEmp()[pri:0, instance:com.KeximBank.master.ExePom@3e57cd70]" name="pomEmp" duration-ms="24678" started-at="2018-02-19T00:47:05Z" finished-at="2018-02-19T00:47:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pomEmp -->
+        <test-method status="PASS" signature="pomRole()[pri:0, instance:com.KeximBank.master.ExePom@3e57cd70]" name="pomRole" duration-ms="17825" started-at="2018-02-19T00:47:29Z" finished-at="2018-02-19T00:47:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pomRole -->
+      </class> <!-- com.KeximBank.master.ExePom -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
